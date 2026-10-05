@@ -9,7 +9,7 @@ Users can add, view, edit, delete, search, and filter leads, track follow-up sta
 ## Live Application
 
 **Live Demo:**  
-https://eventlead-qfaipl3su-fuzi-kaje.vercel.app
+https://eventlead-ai-xi.vercel.app/
 
 **GitHub Repository:**  
 https://github.com/OmkarrMain/event_lead-ai
