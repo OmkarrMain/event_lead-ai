@@ -861,7 +861,7 @@ function App() {
                             className="action-button follow-up-button"
                             onClick={() => handleFollowUp(lead)}
                           >
-                            AI Follow-Up
+                            Follow-Up
                           </button>
 
                           <button
