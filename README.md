@@ -647,39 +647,6 @@ docs/
 
 ---
 
-# Demo Video
-
-A complete demonstration of EventLead AI is provided below.
-
-## Video Demo
-
-[Watch the EventLead AI Demo](YOUR_VIDEO_LINK_HERE)
-
-Replace `YOUR_VIDEO_LINK_HERE` with your YouTube or Google Drive video link.
-
-The demonstration should cover:
-
-- Application overview
-- Creating a lead
-- Editing a lead
-- Searching and filtering
-- Lead scoring
-- AI summary generation
-- AI follow-up generation
-- Analytics
-- Backup and restore
-- Production deployment
-
-## Video Thumbnail
-
-Optional clickable thumbnail:
-
-```markdown
-[![EventLead AI Demo](docs/screenshots/demo-thumbnail.png)](YOUR_VIDEO_LINK_HERE)
-```
-
----
-
 # Technical Decisions
 
 ## React + Vite
